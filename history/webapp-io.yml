@@ -1,7 +1,7 @@
 url: https://$WEBAPPIO
-status: down
-code: 404
-responseTime: 338
-lastUpdated: 2024-01-11T15:32:49.880Z
+status: up
+code: 200
+responseTime: 22371
+lastUpdated: 2024-01-11T15:56:19.625Z
 startTime: 2024-01-11T10:56:14.003Z
 generator: Upptime <https://github.com/upptime/upptime>

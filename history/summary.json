@@ -22,19 +22,19 @@
     "url": "https://$WEBAPPIO",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "webapp-io",
-    "status": "down",
-    "uptime": "35.82%",
-    "uptimeDay": "35.82%",
-    "uptimeWeek": "35.82%",
-    "uptimeMonth": "35.82%",
-    "uptimeYear": "35.82%",
-    "time": 9172,
-    "timeDay": 9172,
-    "timeWeek": 9172,
-    "timeMonth": 9172,
-    "timeYear": 9172,
+    "status": "up",
+    "uptime": "20.69%",
+    "uptimeDay": "20.69%",
+    "uptimeWeek": "20.69%",
+    "uptimeMonth": "20.69%",
+    "uptimeYear": "20.69%",
+    "time": 8832,
+    "timeDay": 8832,
+    "timeWeek": 8832,
+    "timeMonth": 8832,
+    "timeYear": 8832,
     "dailyMinutesDown": {
-      "2024-01-11": 20
+      "2024-01-11": 43
     }
   }
 ]

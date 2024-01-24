@@ -4,9 +4,9 @@
     "url": "https://pan.coolc.life",
     "icon": "https://icons.duckduckgo.com/ip3/pan.coolc.life.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 505,
     "timeMonth": 481,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-24": 0
+    }
   },
   {
     "name": "webapp.io",
@@ -23,13 +25,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "webapp-io",
     "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "96.21%",
+    "uptime": "97.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.26%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.78%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "97.86%",
     "time": 4402,
-    "timeDay": 1301,
+    "timeDay": 1312,
     "timeWeek": 1771,
     "timeMonth": 4402,
     "timeYear": 4402,
